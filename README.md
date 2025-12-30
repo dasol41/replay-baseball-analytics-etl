@@ -69,5 +69,3 @@ https://lookerstudio.google.com/u/0/reporting/c1474b0b-abc2-4fd9-bb1c-f639e74ed3
 - Bridged the gap between raw tracking data and coaching insights
 
 ---
-
-## 📂 Repository Structure
